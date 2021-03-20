@@ -149,7 +149,6 @@ function writeToFile(data) {
 function init() {
     questions()
         .then(readmeData => {
-            console.log(readmeData);
             return generateMarkdown(readmeData);
         })
         .then(pageXML => {
