@@ -15,7 +15,7 @@
   To use this application, you will need to clone the repository found [here](https://github.com/alyssawinn/readme-generator), download Node to your local machine, then install Inquirer using the command 'npm install inquirer' in your terminal. This will add the necessary node_modules folder required for a functional application.
 
   ## Usage
-  Click [here](https://drive.google.com/file/d/1Vh9PjsYMsTWnTifd2JEGFMRaD-YiSbi7/view) to open instructional video on how to follow prompts to genreate a high-quality README.
+  Click [here](https://drive.google.com/file/d/1Vh9PjsYMsTWnTifd2JEGFMRaD-YiSbi7/view) to open instructional video on how to follow prompts to generate a high-quality README.
   
 
   ## License
